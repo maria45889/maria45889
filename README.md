@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=200&section=header&text=Maria%20Jose%20Taco%20🇪🇨&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<img src="https://media.tenor.com/images/17773853/tenor.gif" alt="Bongo Cat Typing GIF" width="400" />
+<img src="https://media.tenor.com/images/9941090423568182263/tenor.gif" alt="Amor GIF" width="400" />
 
 ### ✨ Transformando ideas en código elegante y funcional
 
@@ -178,3 +178,4 @@ const mariaJoseTaco = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=100&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20%F0%9F%92%96&fontSize=25&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
+
