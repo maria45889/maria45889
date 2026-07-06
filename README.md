@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=200&section=header&text=Maria%20Jose%20Taco%20🇪🇨&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<img src="https://media.tenor.com/17773853/bongo-cat-typing-keyboard-smash.gif" alt="Bongo Cat Typing GIF" width="400" />
+<img src="https://media.tenor.com/images/17773853/tenor.gif" alt="Bongo Cat Typing GIF" width="400" />
 
 ### ✨ Transformando ideas en código elegante y funcional
 
