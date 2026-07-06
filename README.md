@@ -155,14 +155,14 @@ const mariaJoseTaco = {
 
 <br>
 
-<a href="http://wa.me/593987666639?text=Hola%20me%20llamo%20%5BTu%20Nombre%5D%20y%20me%20gusto%20tu%20trabajo.%20Quisiera%20conocerte%20%3C3">
+<a href="http://wa.me/593983219145?text=Hola%20me%20llamo%20%5BTu%20Nombre%5D%20y%20me%20gusto%20tu%20trabajo.%20Quisiera%20conocerte%20%3C3">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
 </a>
-<a href="mailto:aliyhamy04@gmail.com">
+<a href="mailto:miniamigixv@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
 </a>
-<a href="https://instagram.com/ali_my_alv">
-<img src="https://img.shields.io/badge/Instagram-C77DFF?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+<a href="https://www.tiktok.com/@miniamigixv">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="35" />
 </a>
 
 <br><br>
@@ -170,6 +170,8 @@ const mariaJoseTaco = {
 ### 👀 Visitantes del Perfil
 
 <img src="https://komarev.com/ghpvc/?username=Aliii666&label=Visitantes%20del%20Perfil&color=FF6B9D&style=for-the-badge" alt="Contador de visitantes" />
+
+**778 visitantes**
 
 <br><br>
 
