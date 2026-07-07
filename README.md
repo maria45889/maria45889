@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=200&section=header&text=Maria%20Jose%20Taco%20🇪🇨&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<img src="https://i.pinimg.com/originals/ac/bc/d7/acbcd7e972e2a52248c84ead31ba4d25.gif" width="50%"/>
-
 ### ✨ Transformando ideas en código elegante y funcional
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Maria+Jose+Taco;Desarrolladora+Full+Stack;Apasionada+por+la+tecnolog%C3%ADa;Creando+soluciones+innovadoras)](https://git.io/typing-svg)
