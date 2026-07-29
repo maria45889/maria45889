@@ -172,6 +172,8 @@ Funciones: desarrollo web, PHP/Laravel, SQL, metodologías ágiles, documentaci�
 ### 🤖 MiniAmigixV
 Plataforma inteligente de productividad con IA.
 
+![Public](https://img.shields.io/badge/Status-Public-success?style=flat-square)
+
 - Chat con IA
 - Sistema de eventos y notificaciones inteligentes
 - Traductor multilenguaje
