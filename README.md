@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=200&section=header&text=Maria%20Jose%20Taco&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<img src="Gato de perfil.jpeg" width="150" style="border-radius: 50%; border: 4px solid #FF6B9D;"/>
+<img src="programmer-cat.svg" width="150" style="border-radius: 50%; border: 4px solid #FF6B9D;"/>
 
 ### ✨ Transformando ideas en código elegante y funcional
 
