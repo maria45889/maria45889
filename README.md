@@ -10,6 +10,10 @@
 
 <img src="https://img.shields.io/badge/Ecuador-🇪🇨-334155?style=for-the-badge">
 
+<br/>
+
+<img src="Gato de perfil.jpeg" width="150" style="border-radius: 50%;">
+
 </div>
 
 <br/>
