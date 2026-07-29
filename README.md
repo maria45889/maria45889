@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=200&section=header&text=Maria%20Jose%20Taco%20🇪🇨&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=200&section=header&text=Maria%20Jose%20Taco&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<img src="Gato de perfil.jpeg" width="50%"/>
+<img src="Gato de perfil.jpeg" width="150" style="border-radius: 50%; border: 4px solid #FF6B9D;"/>
 
 ### ✨ Transformando ideas en código elegante y funcional
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Maria+Jose+Taco;Desarrolladora+Full+Stack;Apasionada+por+la+tecnolog%C3%ADa;Creando+soluciones+innovadoras)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Apasionada+por+la+tecnolog%C3%ADa;Creando+soluciones+innovadoras;Ecuador+%F0%9F%87%AA%F0%9F%87%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,14 +14,15 @@
 
 ## 👩‍💻 Sobre Mí
 
-Soy una desarrolladora apasionada por crear experiencias digitales excepcionales. Me especializo en desarrollo full stack con un enfoque en interfaces de usuario intuitivas y sistemas backend robustos.
+Soy una desarrolladora Full Stack apasionada por crear experiencias digitales excepcionales. Me especializo en desarrollo web con un enfoque en interfaces de usuario intuitivas y sistemas backend robustos.
 
 ```javascript
 const mariaJoseTaco = {
     ubicacion: "Ecuador 🇪🇨",
     rol: "Full Stack Developer",
     pasiones: ["Código limpio", "Diseño UX/UI", "Aprendizaje continuo"],
-    meta: "Construir aplicaciones que impacten positivamente"
+    meta: "Construir aplicaciones que impacten positivamente",
+    stack: ["Python", "Django", "PHP", "Laravel", "React", "JavaScript"]
 };
 ```
 
@@ -44,95 +45,32 @@ const mariaJoseTaco = {
 
 ### 💻 Lenguajes de Programación
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" />
-<br><strong>Java</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" />
-<br><strong>C++</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" />
-<br><strong>JavaScript</strong>
-</td>
-</tr>
-</table>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com/)
 
 ### 🎨 Frontend
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
-<br><strong>CSS3</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="55" height="55" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55" />
-<br><strong>Bootstrap</strong>
-</td>
-</tr>
-</table>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://css3.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ### ⚙️ Backend & Bases de Datos
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55" />
-<br><strong>PHP</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="55" height="55" />
-<br><strong>Laravel</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
-<br><strong>MySQL</strong>
-</td>
-</tr>
-</table>
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
 
-### 🔧 Herramientas & Otros
+### 🔧 Herramientas & Dev_ops
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55" />
-<br><strong>GitHub</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" />
-<br><strong>Linux</strong>
-</td>
-</tr>
-</table>
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://linux.org/)
 
 </div>
 
@@ -140,39 +78,91 @@ const mariaJoseTaco = {
 
 ## 💼 Experiencia Laboral
 
-### Práctica Laboral - Desarrollo y Programación Web
+### 🚀 Práctica Laboral - Desarrollo y Programación Web
 
-**Período:** 25 de noviembre de 2025 - 17 de abril de 2026  
+<div align="center">
+
+**Período:** Nov 2025 - Abr 2026  
 **Duración:** 240 horas
+
+</div>
 
 Durante mi práctica laboral en el área de Desarrollo y Programación Web, adquirí experiencia práctica en:
 
-- **Desarrollo y mantenimiento de interfaces web:** Creación y optimización de interfaces de usuario responsivas y accesibles.
-- **Implementación de funcionalidades backend con PHP y Laravel:** Desarrollo de lógica de servidor, rutas, controladores y middleware utilizando el framework Laravel.
-- **Consultas SQL para integración de sistemas:** Diseño y ejecución de consultas complejas para la integración de módulos y optimización de bases de datos.
-- **Metodologías ágiles:** Participación activa en reuniones de equipo, sprints, seguimiento de tareas y entregables utilizando metodologías ágiles.
-- **Documentación técnica:** Elaboración de documentación técnica detallada para los módulos desarrollados, facilitando el mantenimiento y escalabilidad del sistema.
-- **Pruebas de control de calidad:** Ejecución de pruebas funcionales y validación de procesos para asegurar la calidad del software entregado.
+- **Desarrollo Web:** Creación y optimización de interfaces responsivas y accesibles
+- **Backend PHP/Laravel:** Desarrollo de lógica de servidor, rutas, controladores y middleware
+- **SQL & Bases de Datos:** Diseño de consultas complejas para integración de sistemas
+- **Metodologías Ágiles:** Participación en sprints, seguimiento de tareas y entregables
+- **Documentación Técnica:** Elaboración de documentación para mantenimiento y escalabilidad
+- **QA & Testing:** Ejecución de pruebas funcionales y validación de procesos
 
 **Habilidades desarrolladas:**
 - Trabajo en equipo y colaboración interdisciplinaria
 - Atención al detalle y compromiso con la calidad
-- Capacidad de aprendizaje continuo y adaptabilidad
+- Aprendizaje continuo y adaptabilidad
 - Propuesta de mejoras y optimización de procesos
 
 ---
 
-## � Certificaciones
+## 📜 Certificaciones
 
-### Certificado de Práctica Laboral
-- **Área:** Desarrollo y Programación Web
-- **Duración:** 240 horas
-- **Período:** 25 de noviembre de 2025 - 17 de abril de 2026
-- **Funciones:** Desarrollo web, PHP/Laravel, SQL, metodologías ágiles, documentación técnica, pruebas de calidad
+### 🎓 Certificado de Práctica Laboral
+
+<div align="center">
+
+| Área | Duración | Período |
+|------|----------|---------|
+| Desarrollo y Programación Web | 240 horas | Nov 2025 - Abr 2026 |
+
+**Funciones:** Desarrollo web, PHP/Laravel, SQL, metodologías ágiles, documentación técnica, pruebas de calidad
+
+</div>
 
 ---
 
-## �📊 Estadísticas de GitHub
+## 🚀 Proyectos Destacados
+
+### ⭐ MiniAmigixV
+
+Plataforma web moderna de productividad con IA, diseño glassmorphism y múltiples herramientas inteligentes integradas.
+
+[![Django](https://img.shields.io/badge/Django-6.0.6-green.svg)](https://djangoproject.com/)
+[![Python](https://img.shields.io/badge/Python-3.14-blue.svg)](https://python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/maria45889/MiniAmigixV/blob/main/LICENSE)
+
+**Características principales:**
+- Chat IA con múltiples proveedores (OpenAI, Groq, Ollama)
+- Sistema de notificaciones avanzado
+- Gestión de eventos y agenda
+- Clima en tiempo real
+- Traductor multilenguaje
+- Panel de administración con métricas
+
+[🔗 Ver Proyecto](https://github.com/maria45889/MiniAmigixV)
+
+---
+
+### 📍 GPS Tracker App
+
+Sistema completo de rastreo GPS con aplicación móvil React Native y backend Node.js para seguimiento en tiempo real.
+
+[![React Native](https://img.shields.io/badge/React_Native-0.61.5-blue.svg)](https://reactnative.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/maria45889/GPS/blob/main/LICENSE)
+
+**Características principales:**
+- Rastreo GPS en tiempo real
+- Backend con API REST y Socket.IO
+- Base de datos SQLite
+- Rastreo en segundo plano
+- Soporte offline con cola de ubicaciones
+
+[🔗 Ver Proyecto](https://github.com/maria45889/GPS)
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -186,6 +176,20 @@ Durante mi práctica laboral en el área de Desarrollo y Programación Web, adqu
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliii666&custom_title=Actividad%20de%20Contribuciones&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=false&border_color=FF6B9D&theme=react-dark" width="95%"/>
+
+</div>
+
+---
+
+## 🎯 Objetivos Actuales
+
+<div align="center">
+
+- [ ] Completar portafolio web personal con Next.js
+- [ ] Mejorar documentación de proyectos existentes
+- [ ] Agregar capturas de pantalla y demos
+- [ ] Contribuir a proyectos open source
+- [ ] Aprender arquitecturas cloud (AWS/GCP)
 
 </div>
 
@@ -216,8 +220,6 @@ Durante mi práctica laboral en el área de Desarrollo y Programación Web, adqu
 ### 👀 Visitantes del Perfil
 
 <img src="https://komarev.com/ghpvc/?username=Aliii666&label=Visitantes%20del%20Perfil&color=FF6B9D&style=for-the-badge" alt="Contador de visitantes" />
-
-**778 visitantes**
 
 <br><br>
 
