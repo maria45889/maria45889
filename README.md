@@ -96,6 +96,18 @@ const mariaJoseTaco = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
 <br><strong>PostgreSQL</strong>
 </td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" height="55" />
+<br><strong>PHP</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="55" height="55" />
+<br><strong>Laravel</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
+<br><strong>MySQL</strong>
+</td>
 </tr>
 </table>
 
@@ -123,6 +135,30 @@ const mariaJoseTaco = {
 </table>
 
 </div>
+
+---
+
+## 💼 Experiencia Laboral
+
+### Práctica Laboral - Desarrollo y Programación Web
+
+**Período:** 25 de noviembre de 2025 - 17 de abril de 2026  
+**Duración:** 240 horas
+
+Durante mi práctica laboral en el área de Desarrollo y Programación Web, adquirí experiencia práctica en:
+
+- **Desarrollo y mantenimiento de interfaces web:** Creación y optimización de interfaces de usuario responsivas y accesibles.
+- **Implementación de funcionalidades backend con PHP y Laravel:** Desarrollo de lógica de servidor, rutas, controladores y middleware utilizando el framework Laravel.
+- **Consultas SQL para integración de sistemas:** Diseño y ejecución de consultas complejas para la integración de módulos y optimización de bases de datos.
+- **Metodologías ágiles:** Participación activa en reuniones de equipo, sprints, seguimiento de tareas y entregables utilizando metodologías ágiles.
+- **Documentación técnica:** Elaboración de documentación técnica detallada para los módulos desarrollados, facilitando el mantenimiento y escalabilidad del sistema.
+- **Pruebas de control de calidad:** Ejecución de pruebas funcionales y validación de procesos para asegurar la calidad del software entregado.
+
+**Habilidades desarrolladas:**
+- Trabajo en equipo y colaboración interdisciplinaria
+- Atención al detalle y compromiso con la calidad
+- Capacidad de aprendizaje continuo y adaptabilidad
+- Propuesta de mejoras y optimización de procesos
 
 ---
 
