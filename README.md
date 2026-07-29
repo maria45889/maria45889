@@ -14,10 +14,6 @@
 
 <img src="https://img.shields.io/badge/Ecuador-🇪🇨-334155?style=for-the-badge">
 
-<br/><br/>
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
-
 </div>
 
 <br/>
