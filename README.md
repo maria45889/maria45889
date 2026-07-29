@@ -3,7 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <img src="images/cat-programmer.svg" width="320" alt="Cat Programmer">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Maria+Jose+Taco;Full+Stack+Developer;Code+%7C+Design+%7C+Innovation">
+
 </p>
 
 </div>
@@ -163,6 +169,16 @@ Sistema de rastreo GPS en tiempo real.
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliii666&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Actividad
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/maria45889/maria45889/output/github-contribution-grid-snake.svg">
 
 </p>
 
