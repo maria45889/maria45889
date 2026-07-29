@@ -120,11 +120,11 @@ Sistema de rastreo GPS en tiempo real.
 ## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maria45889&show_icons=true&theme=default&hide_border=true&title_color=334155&icon_color=64748B&text_color=1e293b"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=maria45889&show_icons=true&theme=default&hide_border=true&title_color=334155&icon_color=64748B&text_color=1e293b"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria45889&layout=compact&theme=default&hide_border=true&title_color=334155&text_color=1e293b"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maria45889&layout=compact&theme=default&hide_border=true&title_color=334155&text_color=1e293b"/>
 </p>
 
 <br/>
