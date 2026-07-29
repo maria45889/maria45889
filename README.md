@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=200&section=header&text=Desarrolladora%20Full%20Stack%20de%20Ecuador%20🇪🇨&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNhbDRpenZiaGx1djh0Yml3Yno4MHk1aXYyMzA5bWJ0ZWwzeGM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" alt="Coding GIF" width="400" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
 
 ### ✨ Transformando ideas en código elegante y funcional
 
