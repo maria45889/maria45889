@@ -162,15 +162,13 @@ Sistema de rastreo GPS en tiempo real.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maria45889&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maria45889&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=maria45889&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria45889&layout=compact&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria45889&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -201,15 +199,15 @@ Sistema de rastreo GPS en tiempo real.
 <p align="center">
 
 <a href="https://github.com/maria45889">
-<img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Mi%20Perfil-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:miniamigixv@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="http://wa.me/593983219145">
 <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-<a href="mailto:miniamigixv@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contactar-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.tiktok.com/@miniamigixv">
