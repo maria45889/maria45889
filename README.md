@@ -4,15 +4,19 @@
 
 <br/>
 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Desarrollo+Web+Full+Stack;Python+%7C+Django+%7C+Laravel+%7C+React;Aplicaciones+con+Inteligencia+Artificial" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Ecuador-🇪🇨-334155?style=for-the-badge">
 
-<br/>
+<br/><br/>
 
-<img src="Gato de perfil.jpeg" width="150" style="border-radius: 50%;">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
 
 </div>
 
