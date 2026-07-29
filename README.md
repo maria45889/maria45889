@@ -204,12 +204,12 @@ Sistema de rastreo GPS en tiempo real.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maria45889&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&icon_color=C77DFF&border_color=FF6B9D&border_radius=15&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maria45889&theme=radical&background=0D1117&ring=FF6B9D&fire=C77DFF&currStreakLabel=FF6B9D&border=FF6B9D&border_radius=15" />
+<img width="49%" src="https://github-readme-stats-git-master.vercel.app/api?username=maria45889&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&icon_color=C77DFF&border_color=FF6B9D&border_radius=15&hide_border=false" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=maria45889&theme=radical&background=0D1117&ring=FF6B9D&fire=C77DFF&currStreakLabel=FF6B9D&border=FF6B9D&border_radius=15" />
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria45889&layout=compact&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&border_color=FF6B9D&border_radius=15&hide_border=false" />
+<img width="60%" src="https://github-readme-stats-git-master.vercel.app/api/top-langs/?username=maria45889&layout=compact&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&border_color=FF6B9D&border_radius=15&hide_border=false" />
 
 <br />
 
