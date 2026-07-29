@@ -162,7 +162,17 @@ Durante mi práctica laboral en el área de Desarrollo y Programación Web, adqu
 
 ---
 
-## 📊 Estadísticas de GitHub
+## � Certificaciones
+
+### Certificado de Práctica Laboral
+- **Área:** Desarrollo y Programación Web
+- **Duración:** 240 horas
+- **Período:** 25 de noviembre de 2025 - 17 de abril de 2026
+- **Funciones:** Desarrollo web, PHP/Laravel, SQL, metodologías ágiles, documentación técnica, pruebas de calidad
+
+---
+
+## �📊 Estadísticas de GitHub
 
 <div align="center">
 
